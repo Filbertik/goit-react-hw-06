@@ -1,0 +1,24 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  width: 365px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}
+
+.error {
+  color: rgb(177, 23, 23);
+  font-size: 12px;
+}
+/* 
+.button {
+  margin-bottom: 12px;
+} */
+h1 {
+  max-width: 400px;
+  text-align: start;
+}
